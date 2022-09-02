@@ -2,7 +2,7 @@
   "name": "tiktok",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://huytehuy.github.io/tiktok-f8/",
+  "homepage": "https://huytehuy.github.io/",
   "dependencies": {
     "-": "0.0.1",
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
