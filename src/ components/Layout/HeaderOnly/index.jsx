@@ -1,10 +1,10 @@
-import Header from "./Header";
+import Header from "~/ components/Layout/Components/header"
 
 function DefaultLayout({children}) {
     return ( 
         <div>
             <Header/>
-            <div className="conatiner">
+            <div className="container">
                 <div className="content">
                     {children}
                 </div>

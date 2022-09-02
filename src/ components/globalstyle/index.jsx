@@ -1,11 +1,7 @@
-import React from 'react';
 
-function index(props) {
-    return (
-        <div>
-            
-        </div>
-    );
+import './Globalstyle.module.scss'
+function GlobalStyle({children}) {
+    return children ;
 }
 
-export default index;
+export default GlobalStyle;
